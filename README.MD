@@ -8,4 +8,4 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![mysql data output](screenshots/pycharm.png)
 
 # Website ScreenShot
-![website data output](screenshots/.png)
+![website data output](screenshots/website.png)
